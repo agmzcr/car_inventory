@@ -2,13 +2,17 @@
 
 This project is a web-based application designed to manage a car inventory. It allows users to add, update, delete, and view cars in the inventory.
 
-## Technologies Used
+## Technologies Used Backend
 
 - **Python**
 - **FastAPI**
 - **PostgreSQL**
+
+## Technologies Used Frontend
+
 - **React**
 - **Vite**
+- **Shadcn UI**
 
 ## Features
 
